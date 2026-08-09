@@ -37,7 +37,9 @@ The main objectives of this project are:
 <p align = "center">
  <image src = "(https://github.com/KANISHSINGH1230/HR_DATA_Analytics/blob/main/image/WORKFORCE%20OVERVIEW.png)" widh =
 "100%" alt = "workforce">
-   
+
+
+# "WORKFORCE OVERVIEW.png"
 
 
 ## 1️⃣ Workforce Overview
