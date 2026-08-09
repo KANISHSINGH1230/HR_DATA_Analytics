@@ -287,18 +287,3 @@ Interactive Visualizations
 HR Workforce Dashboard
      ↓
 Business Insights
-
-
-
-
-
-
-
-
-
-
-
-WORKFORCE OVERVIEW.png
-ATTRITION ANALYSIS.png
-Compensation.png
-
