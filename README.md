@@ -35,8 +35,8 @@ The main objectives of this project are:
 # 📌 Dashboard Pages
 
 <p align = "center">
- <image src = "https://github.com/KANISHSINGH1230/Brazil_Sales_Dashboard/blob/main/Sales_overview.jpeg " widh =
-   "100%" alt = "Sales Dashboard">
+ <image src = (https://github.com/KANISHSINGH1230/HR_DATA_Analytics/blob/main/image/WORKFORCE%20OVERVIEW.png)" widh =
+   "100%" alt = "workforce">
 
 
 ## 1️⃣ Workforce Overview
