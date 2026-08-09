@@ -35,7 +35,7 @@ The main objectives of this project are:
 # 📌 Dashboard Pages
 
 
-![HR_DATA_Analytics](WORKFORCEOVERVIEW.png)
+![HR_DATA_Analytics](WORKFORCE%20OVERVIEW.png)
 
 
 ## 1️⃣ Workforce Overview
