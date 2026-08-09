@@ -35,8 +35,7 @@ The main objectives of this project are:
 # 📌 Dashboard Pages
 
 
-![Workforce Overview](WORKFORCE%20OVERVIEW.png)
-
+<img src="WORKFORCE OVERVIEW.png" alt="Workforce Overview">
 
 ## 1️⃣ Workforce Overview
 
