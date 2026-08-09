@@ -34,6 +34,11 @@ The main objectives of this project are:
 
 # 📌 Dashboard Pages
 
+<p align = "center">
+ <image src = "https://github.com/KANISHSINGH1230/Brazil_Sales_Dashboard/blob/main/Sales_overview.jpeg " widh =
+   "100%" alt = "Sales Dashboard">
+
+
 ## 1️⃣ Workforce Overview
 
 The Workforce Overview page provides a high-level summary of the organization's workforce.
