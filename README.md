@@ -36,6 +36,10 @@ The main objectives of this project are:
 
 
 <img src="WORKFORCE OVERVIEW.png" alt="Workforce Overview">
+<img src="ATTRITION ANALYSIS.png" alt="Workforce Overview">
+<img src="compensation.png" alt="Workforce Overview">
+
+
 
 ## 1️⃣ Workforce Overview
 
