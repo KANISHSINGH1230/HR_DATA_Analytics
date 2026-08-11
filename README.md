@@ -36,7 +36,7 @@ The main objectives of this project are:
 
 
 <img src="https://github.com/KANISHSINGH1230/HR_DATA_Analytics/blob/main/image/ATTRITION%20ANALYSIS.png)" alt="Workforce Overview">
-<img src="ATTRITION ANALYSIS.png" alt="Workforce Overview">
+<img src = "https://github.com/KANISHSINGH1230/HR_DATA_Analytics/blob/main/image/ATTRITION%20ANALYSIS.png")
 <img src="compensation.png" alt="Workforce Overview">
 
 
