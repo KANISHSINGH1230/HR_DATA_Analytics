@@ -138,3 +138,8 @@ HR Workforce Analytics
     ├── Salary Band Distribution
     ├── Training Cost
     └── Above/Below Average Salary
+
+
+
+
+video = "https://drive.google.com/drive/folders/1Q3xaF_VThis7h5UWMYdro4bnpVgtFYp8?usp=sharing"
